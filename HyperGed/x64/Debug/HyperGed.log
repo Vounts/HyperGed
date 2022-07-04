@@ -1,0 +1,12 @@
+﻿  Building 'HyperGed' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Assembling x64.asm...
+  HyperGed.cpp
+  Logging.cpp
+  Utils.cpp
+  Generating Code...
+  HyperGed.vcxproj -> C:\Users\jheed\source\repos\HyperGed\x64\Debug\HyperGed.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\jheed\source\repos\HyperGed\x64\Debug\HyperGed.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
